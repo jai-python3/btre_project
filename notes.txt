@@ -1,3 +1,7 @@
+Install PostgreSQL
+Install pgAdmin4
+Create the database btredb
+
 python manage.py startapp pages
 python manage.py runserver
 python manage.py collectstatic
